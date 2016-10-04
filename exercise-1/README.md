@@ -8,4 +8,6 @@ See `complete` branch for an example.
 
 ##My Favorite Quote
 
-```Hello World!```
+>Everything that can be invented has been invented
+
+Quote by [Charles Holland Duell](https://en.wikipedia.org/wiki/Charles_Holland_Duell)
