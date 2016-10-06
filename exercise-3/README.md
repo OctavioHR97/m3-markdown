@@ -20,4 +20,4 @@ It stands for Changing Directories. The `cd` command is used to move around all 
 This command would place you in your Desktop.
 
 - You can use the input " ~/" after the cd to directly go to /Users/USERNAME/
-- It follows the Tree path of the directories.
+- It follows the tree path of the directories.
