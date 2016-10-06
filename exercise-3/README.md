@@ -1,4 +1,4 @@
-# Exercise-2
+# Exercise-3
 
 As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should begin by forking this repository, then cloning it to your local machine (if you haven't already).
 
@@ -9,3 +9,15 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+
+# Command _**cd**_
+
+It stands for Changing Directories. The `cd` command is used to move around all the different directoriess. For example:
+
+`cd ~/Desktop`
+
+This command would place you in your Desktop.
+
+- You can use the input " ~/" after the cd to directly go to /Users/USERNAME/
+- It follows the Tree path of the directories.
